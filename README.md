@@ -15,7 +15,7 @@
   
   
 `nano <filename.c>` / `vi <filename.c>` / `vim <filename.c>` --> creates a new c file & opens it  
-`mkdir <folder_name> --> creates a new directory in the current location  
+`mkdir <folder_name>` --> creates a new directory in the current location  
 `rm <filename>` --> Removes the file  
 `rm -rf <folder_name>` --> Force removes the whole directory along with subdirectories  
   
