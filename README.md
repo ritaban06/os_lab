@@ -44,5 +44,5 @@ File will be saved
 
   
 ### How to save in Vi / Vim editor  
-After writing code press `Esc` key and then type `:wq` and press `Enter`.
+After writing code press `Esc` key and then type `:wq` and press `Enter`.  
 File will be saved   
