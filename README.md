@@ -21,5 +21,28 @@
   
   
   
+`:w` – Saves the file without exiting.  
+`:wq` – Saves changes and exits Vim.  
+`:q` – Exits Vim (fails if there are unsaved changes).  
+`:q!` – Exits Vim immediately and discards all unsaved changes.  
+`ZZ` – Saves and exits quickly (shortcut for :wq)  
+  
+  
+`i` / `I` – Insert before cursor / start of line.  
+`a` / `A` – Append after cursor / end of line.  
+`o` / `O` – Open new line below / above and enter Insert Mode  
+  
+  
+  
 `gcc -o <output_name> <source_code_file_name.c>` --> Compiles the c code  
-`./<output_name>` --> runs the compiled file  
+`./<output_name>` --> runs the compiled file 
+
+
+### How to save code in nano editor  
+After writing the code press `Ctrl + x` then `Y` and then press `Enter` key.  
+File will be saved  
+
+  
+### How to save in Vi / Vim editor  
+After writing code press `Esc` key and then type `:wq` and press `Enter`.
+File will be saved   
